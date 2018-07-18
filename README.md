@@ -1,6 +1,6 @@
 1. Ssh IP and Port
 - IP: 35.229.158.164
-- Port 22
+- Port 2222
 2. http://35.229.158.164
 3. Configuration
 - Install python-dev, pip, apache2, postgres using apt-get
